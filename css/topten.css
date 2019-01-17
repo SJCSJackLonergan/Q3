@@ -3,11 +3,17 @@ h1	{
 }
 li	{
 	color:navy;
+	font-size: 30px;
+	text-align: center;
 }
 p	{
 	color:green;
+	text-align: center;
 }
 img	{
 	border-style: double;
 	border-color: #A93264;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
