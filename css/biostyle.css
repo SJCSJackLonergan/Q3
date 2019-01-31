@@ -1,6 +1,7 @@
 p	{
 	font-family: cursive;
 	text-align: center;
+	margin: 30px
 }
 h1	{
 	color:#D7D7D7;
@@ -10,11 +11,13 @@ h1	{
 }
 h3	{
 	text-align: center;
+	font-size: 40px;
 }
 img	{
 	border-color: #FFFD00;
 	border-style: double;
 	border-width: 10px;
+	margin: 20px; 
 }
 .one	{
 	color:#00E227;
@@ -29,5 +32,19 @@ img	{
 	color:#A1E2AC;
 }
 body {
-	background-color: #021465
+	background-color:#55BE7A;
+}
+.wrapper {
+	width: 85%;
+	margin:0 auto;
+	background-color:  #021465;
+
+}
+.beginning	{
+	font-size: 25px;
+	font-family:sans-serif;
+}
+.end	{
+	font-size: 40px;
+	font-family: cursive;
 }

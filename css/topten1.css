@@ -1,0 +1,43 @@
+h1	{
+	color:#00A9A3;
+	text-decoration: underline;
+	text-align: center;
+	font-size: 50px;
+}
+li	{
+	color:#FF7100;
+	font-size: 30px;
+	text-align: center;
+	border:5px green solid;
+	padding: 10px;
+	margin: 30px;
+}
+ol		{
+	text-align: center;
+}
+p	{
+	color:#EFB17F;
+	text-align: center;
+}
+img	{
+	border-style: double;
+	border-color: #00A9A3;
+	border-width: 20px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+a {
+	color: darkgray;
+}
+body {
+	background-color: #006460;
+}
+.orange	{
+	color: #FFB000;
+}
+.wrapper {
+	width: 70%;
+	margin:0 auto;
+	background-color: black;
+}

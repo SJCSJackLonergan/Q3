@@ -1,21 +1,35 @@
 p	{
-	color: green;
+	font-family: cursive;
+	text-align: center;
+	margin: 30px;
+	background-color: #D7D7D7;
+	padding: 30px;
 }
 h1	{
-	color: red;
-}
-h2	{
-	color: purple;
+	color:#D7D7D7;
+	font-family:fantasy;
+	font-size: 50px;
+	text-align: center;
 }
 h3	{
-	color: olive;
+	text-align: center;
+	font-size: 40px;
+	color: #D7D7D7;
 }
-h4	{
-	color:blue;
+img	{
+	border-color: #55BE7A;
+	border-style: double;
+	border-width: 10px;
+	margin: 20px; 
+	height: 300px;
 }
-h5	{
-	color:aqua;
+body {
+	background-color:#55BE7A;
 }
-h6	{
-	color:maroon;
-}
+.wrapper {
+	width: 90%;
+	margin:0 auto;
+	background-color:  #021465;
+	padding: 20px;
+
+} 
