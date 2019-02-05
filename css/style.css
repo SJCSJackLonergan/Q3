@@ -1,5 +1,14 @@
+
 p	{
 	font-family: cursive;
+	text-align: center;
+	margin: 30px;
+	background-color: #D7D7D7;
+	padding: 30px;
+}
+p:hover	{
+	font-family: cursive;
+	color: #D7D7D7;
 	text-align: center;
 	margin: 30px;
 	background-color: #D7D7D7;
@@ -29,7 +38,15 @@ body {
 .wrapper {
 	width: 90%;
 	margin:0 auto;
-	background-color:  #021465;
+	background-color:#021465;
 	padding: 20px;
 
 } 
+a:link	{
+	color: #D7D7D7;
+	text-decoration-color: black;
+}
+a:visited	{
+	color: #55BE7A;
+
+}
