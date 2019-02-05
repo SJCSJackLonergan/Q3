@@ -1,0 +1,13 @@
+.wrapper	{
+	width: 80%;
+	background-color: gray;
+	margin: 0 auto;
+
+}
+a {
+	text-align: center;
+	border: 2px black solid;
+}
+p	{
+	text-align: center;
+}
