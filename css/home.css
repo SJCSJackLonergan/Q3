@@ -1,4 +1,20 @@
 
+p	{
+	font-family: cursive;
+	text-align: center;
+	margin: 30px;
+	background-color: #D7D7D7;
+	padding: 30px;
+}
+p:hover	{
+	font-family: cursive;
+	color: #D7D7D7;
+	text-align: center;
+	font-size: 42px;
+	margin: 30px;
+	background-color: #D7D7D7;
+	padding: 30px;
+}
 h1	{
 	color:#D7D7D7;
 	font-family:fantasy;
@@ -20,18 +36,6 @@ img	{
 body {
 	background-color:#55BE7A;
 }
-a {
-	text-align: center;
-	border: 2px black solid;
-	padding: 5px;
-	margin: 5px;
-	background-color: pink;
-	display: block;
-}
-nav	{
-	text-align: center;
-
-}
 .wrapper {
 	width: 90%;
 	margin:0 auto;
@@ -46,21 +50,4 @@ a:link	{
 a:visited	{
 	color: #55BE7A;
 
-}
-p	{
-	font-family: cursive;
-	text-align: center;
-	margin: 30px;
-	background-color: #D7D7D7;
-	padding: 30px;
-}
-a:hover	{
-	font-family: cursive;
-	text-align: center;
-	margin: 30px;
-	background-color: #D7D7D7;
-	padding: 30px;
-}
-footer	{
-	text-align: center;
 }
