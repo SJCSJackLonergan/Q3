@@ -30,3 +30,16 @@ body {
 .orange	{
 	color: #FFB000;
 }
+.header	{
+	text-align: center;
+	border: 2px black solid;
+	padding: 5px;
+	margin: 5px;
+	background-color: black;
+}
+a:link{
+	color: white;
+}
+a:visited{
+	color: white;
+}

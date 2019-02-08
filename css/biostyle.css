@@ -48,3 +48,11 @@ body {
 	font-size: 40px;
 	font-family: cursive;
 }
+.header	{
+	text-align: center;
+	border: 2px black solid;
+	padding: 5px;
+	margin: 5px;
+	background-color: black;
+	color: white;
+}
