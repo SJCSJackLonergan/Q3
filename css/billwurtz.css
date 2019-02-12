@@ -1,0 +1,61 @@
+body	{
+	font-size: 19px;
+	background-color:grey;
+}
+h1	{
+	font-size: 60px;
+	text-align: center;
+}
+h2	{
+	font-size: 50px;
+	margin-left: 10px;
+}
+h3	{
+	font-size: 40px;
+	font-style: italic;
+}
+p 	{
+	padding-top: 5px;
+}
+.floatl	{
+	float: left;
+}
+.floatr	{
+	float: right;
+}
+img	{
+	border: 5px white solid;
+	margin: 10px;
+	height: 200px;
+}
+.wrapper	{
+	width: 80%;
+	margin: 0 auto;
+	border: 5px black solid;
+	padding: 40px;
+	background-color: green;
+}
+.cleared	{
+	display: flow-root;
+}
+section	{
+	background-color: blue;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+footer	{
+	text-align: center;
+	color: white;
+	background-color: orange;
+}
+.header	{
+	text-align: center;
+	border: 2px black solid;
+	padding: 5px;
+	margin: 5px;
+	background-color: black;
+	color: white;
+}
+.center	{
+	text-align: center;
+}

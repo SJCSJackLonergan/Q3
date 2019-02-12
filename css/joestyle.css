@@ -7,6 +7,7 @@ h1	{
 }
 h2	{
 	font-size: 40px;
+	margin-left: 10px;
 }
 h3	{
 	font-size: 30px;
@@ -15,16 +16,31 @@ h3	{
 .floatl	{
 	float: left;
 }
-p	{
-	background-color: red;
+.floatr	{
+	float: right;
 }
 img	{
 	border: 5px black solid;
 	margin: 10px;
+	width: 300px;
 }
 .wrapper	{
-
+	width: 80%;
+	margin: 0 auto;
+	border: 5px black solid;
+	padding: 10px;
+	background-color: #b3995d;
 }
 .cleared	{
 	display: flow-root;
+}
+section	{
+	background-color: red;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+footer	{
+	text-align: center;
+	color: white;
+	background-color: #aa0000;
 }
