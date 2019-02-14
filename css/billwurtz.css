@@ -36,7 +36,7 @@ img	{
 	background-color: green;
 }
 .cleared	{
-	display: flow-root;
+	clear: left;
 }
 section	{
 	background-color: blue;
