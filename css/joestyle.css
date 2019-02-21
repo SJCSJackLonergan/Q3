@@ -40,7 +40,24 @@ section	{
 	margin-bottom: 10px;
 }
 footer	{
-	text-align: center;
+	margin: 0 auto;
+	text-align: center;	
 	color: white;
 	background-color: #aa0000;
+	width: 80%;
+	padding: 15px;
+}
+.colr {
+	float: right;
+	width: 45%;
+}
+.coll {
+	float: left;
+	width: 45%;
+}
+ol	{
+	margin: 0 auto;
+}
+ul	{
+
 }
