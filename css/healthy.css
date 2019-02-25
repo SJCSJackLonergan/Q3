@@ -76,7 +76,7 @@ ul	{
 	background-color: #10570A;
 }
 .blueback{
-	background-color: teal;
+	background-color: #0CCDF0;
 }
 .purpleback	{
 	background-color: #C326DF;
@@ -97,4 +97,23 @@ li	{
 .step	{
 	font-size: 40px;
 	color: #C5CE5A;
+}
+.header	{
+	text-align: center;
+	border: 2px #C326DF solid;
+	padding: 5px;
+	margin: 5px;
+	background-color: #C326DF;
+	color: #10570A;
+}
+.center	{
+	text-align: center;
+}
+a:link	{
+	color: #D7D7D7;
+	text-decoration-color: black;
+}
+a:visited	{
+	color: white;
+
 }
