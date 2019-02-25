@@ -2,17 +2,19 @@ body	{
 	text-align: center;
 }
 h1	{
-	color: red;
+	color: #DF7226;
 	margin: 0 auto;
-	width: 35%;
+	width: 60%;
+	font-size: 60px;
+	font-family: serif;
 }
 h2	{
-	background-color: orange;
+	background-color: #C5CE5A;
 	text-align: center;
 	margin-bottom: 40px;
 }
 h4	{
-	color: blue;
+	color: #5ACEB9;
 	margin: 0 auto;
 	width: 35%;
 }
@@ -23,13 +25,13 @@ h4	{
 	float: right;
 }
 img	{
-	border: 5px black solid;
+	border: 5px #C5CE5A solid;
 	height: 300px;
 	width: 300px;
 	display: flow-root;
 }
 video	{
-	border: 5px black solid;
+	border: 5px #C5CE5A solid;
 	height: 300px;
 	width: 300px;
 	display: flow-root;
@@ -40,9 +42,9 @@ ol{
 .wrapper	{
 	width: 80%;
 	margin: 0 auto;
-	border: 5px black solid;
+	border: 5px #C5CE5A solid;
 	padding: 10px;
-	background-color: grey;
+	background-color: #5B9663;
 }
 .cleared	{
 	display: flow-root;
@@ -55,7 +57,7 @@ footer	{
 	margin: 0 auto;
 	text-align: center;	
 	color: black;
-	background-color:yellow;
+	background-color:#DEE135;
 	width: 80%;
 	padding: 15px;
 }
@@ -71,11 +73,28 @@ ul	{
 	text-align: left;
 }
 .greenback	{
-	background-color: green;
+	background-color: #10570A;
 }
 .blueback{
 	background-color: teal;
 }
 .purpleback	{
-	background-color: purple;
+	background-color: #C326DF;
+}
+.odd	{
+	background-color: #272384;
+}
+.even	{
+	background-color: #156DD7;
+}
+p {
+	padding: 20px;
+}
+li	{
+	padding: 20px;
+	font-family: sans-serif;
+}
+.step	{
+	font-size: 40px;
+	color: #C5CE5A;
 }
