@@ -53,6 +53,6 @@ a:link{
 a:visited{
 	color: white;
 }
-text-align{
-	text-align: center;
+.centerhead	{
+	margin: 0 auto;
 }
