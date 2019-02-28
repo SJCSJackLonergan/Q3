@@ -1,0 +1,62 @@
+body	{
+	background-color: #dedede;
+}
+.gallery	{
+	display: flex;
+	width: 900px;
+  	margin: auto;
+  	justify-content: space-between;
+  	flex-wrap: wrap;
+}
+figure{
+  width: 200px;
+  margin: 8px 0;
+  border: 1px solid #777;
+  padding: 8px;
+  box-sizing: border-box;
+  background-color: #fff;
+
+}
+figure img{
+  width: 100%;
+}
+figure figcaption{
+  text-align: center;
+  padding: 8px 4px;
+  font-family: fantasy;
+}
+h1	{
+	text-align: center;
+}
+.grayscale {
+  filter: grayscale(1);
+}
+.invert {
+  filter: invert(1);
+}
+.image-blur {
+  filter: blur(2px);
+}
+.effects{
+	width: 300px;
+	margin: 20px;
+}
+.center	{
+	text-align: center
+}
+.header	{
+	text-align: center;
+	border: 2px #C326DF solid;
+	padding: 5px;
+	margin: 5px;
+	background-color: #C326DF;
+	color: #10570A;
+}
+a:link	{
+	color: #D7D7D7;
+	text-decoration-color: black;
+}
+a:visited	{
+	color: white;
+
+}
