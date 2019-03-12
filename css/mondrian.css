@@ -10,13 +10,6 @@ body, html {
     margin-right: auto;
     box-shadow: 10px 10px 0px #8d8d8d;
 }
-#toprow	{
-	height:	290px;
-}
-#bigbox	{
-	width: 290px;
-	height: 290px;
-}
 .red {
     background-color: #cc3333;   
 }
@@ -32,27 +25,37 @@ body, html {
 .right {
 	float: right;
 }
+#bigbox	{
+	width: 290px;
+	height: 290px;
+}
 #divider1 {
     height: 290px;
     width: 10px;
-}
-#topleftcolumn	{
-	width: 100px;
-}
-.mediumbox	{
-	width: 100px;
-	height: 140px;
 }
 #divider2	{
 	height: 10px;
 	width: 100px;
 }
-#middlerow	{
-	height: 140px;
-}
 #divider3	{
 	height: 10px;
 	width: 400px;
+}
+#tallcolumn	{
+	width: 100px;
+}
+#smallcolumn{
+	width: 20px;
+}
+#toprow	{
+	height:	290px;
+}
+#middlerow	{
+	height: 100px;
+}
+.mediumbox	{
+	width: 100px;
+	height: 140px;
 }
 .widebox	{
 	height: 100px;
@@ -60,5 +63,17 @@ body, html {
 }
 .smallbox	{
 	height: 45px;
+	width: 20px;
+}
+.squarebox	{
+	height: 100px;
+	width: 100px;
+}
+.skinnybox	{
+	height: 100px;
+	width:	10px;
+}
+.smol 	{
+	height: 10px;
 	width: 20px;
 }
