@@ -77,3 +77,22 @@ body, html {
 	height: 10px;
 	width: 20px;
 }
+.center	{
+	text-align: center
+}
+.header	{
+	text-align: center;
+	border: 2px #C326DF solid;
+	padding: 5px;
+	margin: 5px;
+	background-color: #C326DF;
+	color: #10570A;
+}
+a:link	{
+	color: #D7D7D7;
+	text-decoration-color: black;
+}
+a:visited	{
+	color: white;
+
+}
